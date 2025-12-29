@@ -21,7 +21,11 @@
 - 🐍 Python | FastAPI <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20">
 - 🟢 Node.js <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20">
 - 🔧 Git & GitHub <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">
-- OpenAI Agent SDK <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVjOWJ6ZHUwOWw4eGpoMHAzNmdoZ3B0czhkZnFvbzZibG5vcm16OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oQe7T1DU0KJUux7oyr/giphy.gif" width="200" >
+🤖 OpenAI Agent ADK <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20">
+
+⚡ Supabase <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="20">
+
+💙 Lovable <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" width="20">
 
 ---
 
