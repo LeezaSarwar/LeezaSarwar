@@ -43,10 +43,10 @@
 ---
 
 ## 📫 Connect With Me <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="25">
-- 💼 GitHub: https://github.com/LeezaSarwar
-- 👔 LinkedIn [ Your Name ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="25">
--💻 GitHub [ @yourusername ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25">
--🐦 X (Twitter) [ @yourhandle ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" width="25">
+
+- 💼 LinkedIn [ @Leeza Sarwar ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="25">
+-💻 GitHub [ @LeezaSarwar ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25">
+-🐦 X (Twitter) [ @LeezaSarwar ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" width="25">
 
 - ✨ Always open to learning & collaboration
 
