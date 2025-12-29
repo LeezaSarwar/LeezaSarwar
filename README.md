@@ -22,7 +22,7 @@
 - 🟢 **Node.js** <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20">
 - 🔧 **Git & GitHub** <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">
 - 🤖 **OpenAI Agent ADK** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20">
-- ⚡ **Supabase** [ [Cloud Database](https://supabase.com) ] <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cylinder.png" width="20">
+- ⚡ **Supabase**<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VsaGF3eWxrM3EzOGZ6bTlnMjFldzk5Z24zMnBuOHA4bml2enR4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/110dhxfJebYOTm/giphy.gif" width="20">
 - 💙 **Lovable** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="20">
 
 ---
