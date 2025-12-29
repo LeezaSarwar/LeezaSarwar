@@ -21,6 +21,7 @@
 - 🐍 Python | FastAPI <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20">
 - 🟢 Node.js <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20">
 - 🔧 Git & GitHub <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20">
+- OpenAI Agent SDK <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVjOWJ6ZHUwOWw4eGpoMHAzNmdoZ3B0czhkZnFvbzZibG5vcm16OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oQe7T1DU0KJUux7oyr/giphy.gif" width="200" >
 
 ---
 
@@ -65,34 +66,5 @@
 
 
 
-
-# Hi 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-## 👩‍💻 About Me
-- 🚀 Full Stack Developer <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40">
-- 🌱 Learning Cloud & Next.js
-- 💡 Love solving problems
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=LeezaSarwar)
-
-
-# Hey 👋 I'm Leeza Sarwar
-
-Welcome to my GitHub!
-
-## 👩‍💻 About Me
-- Full Stack Developer
-- Learning new technologies 🧠
-- Building cool projects 💻
-
-## 🚀 Skills
-- HTML, CSS, JavaScript
-- React, Node.js
-- Python, FastAPI
-
-## 📫 Contact
-Follow me here: https://github.com/LeezaSarwar
 
 
